@@ -31,7 +31,6 @@ The Employee Payroll Tracker is a web application that allows users to manage an
 
 ## Screenshot
 
-[Add your screenshot here]
 
 ## Technologies Used
 
@@ -54,3 +53,7 @@ No installation required. Simply open the index.html file in your web browser to
 ## Questions
 
 [Add contact information or links to where users can ask questions]
+
+## Dev
+Developed by Jonathan
+Github:Dagger3-1
